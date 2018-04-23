@@ -1,1 +1,1 @@
-This repository contains the Matlab codes for FFR analysis. These codes are used for computing PLVs using various methods, including complex PCA, single-channel PLV, single-channel coherence, single-channel power.
+This repository contains the Python codes for FFR analysis. These codes are used for computing PLVs using various methods, including complex PCA, single-channel PLV, single-channel coherence, single-channel power.
